@@ -2,7 +2,7 @@
 
 Welcome to the **STM32-Nucleo-H743ZI2-Projects** repository! This repository is dedicated to exploring and utilizing the capabilities of the **ST Nucleo-H743ZI2** development board. Here, you'll find a collection of projects, examples, and resources that will help you get the most out of this high-performance microcontroller. This repository serves as my playground to experiment with various embedded systems applications.
 
-![STM32 Nucleo H743ZI2](https://www.st.com/en/evaluation-tools/nucleo-h743zi.html)
+![STM32 Nucleo H743ZI2](https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/2167/NUCLEO-H743ZI.jpg)
 
 ## Table of Contents
 - [Introduction](#introduction)
